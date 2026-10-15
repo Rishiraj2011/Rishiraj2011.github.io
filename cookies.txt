@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+gamer-rishi-tech.preview.emergentagent.com	TRUE	/	FALSE	1999999999	__cf_bm	1sP8FKMtOyC4LjkD_l.cJXRHQOX_rq.khaYY9iOLfqg-1790169443.4279327-1.0.1.1-DkK6BEr6L5VS3cVhfNdVDGShHfglKYo.Kc58UE9prRcEi41sQ8QGFbNPmGue73UEVIBh1v3sAGGW4RWGvIdagt.16YSCSq1TC2P7d21cH8QiM5JUzo_y8Kc7SJ5yaW_x
+preview.emergentagent.com	TRUE	/	FALSE	1999999999	SameSite	None
+
