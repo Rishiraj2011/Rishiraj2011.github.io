@@ -1,0 +1,42 @@
+{
+  "name": "Emergent",
+  "short_name": "Emergent",
+  "description": "World's first agentic vibe-coding platform. Build real products with natural language—no developers required.",
+  "start_url": "/",
+  "display": "browser",
+  "background_color": "#000000",
+  "theme_color": "#0f0f10",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "lang": "en",
+  "categories": ["productivity", "developer", "utilities"],
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "16x16 32x32 48x48",
+      "type": "image/x-icon",
+      "purpose": "any"
+    },
+    {
+      "src": "/logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/logo.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ],
+  "shortcuts": [],
+  "screenshots": [
+    {
+      "src": "/View.webp",
+      "sizes": "1280x720",
+      "type": "image/webp"
+    }
+  ],
+  "prefer_related_applications": false
+}
